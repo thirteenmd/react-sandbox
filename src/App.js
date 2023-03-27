@@ -1,10 +1,10 @@
 import React from "react";
-import UseRefExampleThree from './components/UseRefExampleThree';
+import UseMemoExample from "./components/UseMemoExample";
 
 function App() {
   return (
     <div className="container mt-5">
-      <UseRefExampleThree />
+      <UseMemoExample />
     </div>
   );
 }
